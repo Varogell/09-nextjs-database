@@ -28,7 +28,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 | Nama |  Alvaro Hegel Ivanka |
 | Kelas | TI - 3A |
 
-
+## Jobsheet 9
 ### Praktikum 1
 
 #### Soal 1
@@ -78,6 +78,19 @@ menampilkan grafik
 ![Screenshot](asset/tugas.png)
 
 fetchCardData() digunakan untuk mengambil data detail dari kartu berdasarkan ID yang diberikan melalui kueri GraphQL, dan mengembalikan data tersebut atau menangani error jika terjadi masalah selama pengambilan data.
+
+## Jobsheet 10
+Praktikum 1
+
+terjadi error karena belum menambahkan file acme-logo,nav-link,serta sidenave dan belum menginstall bcrypt
+
+praktikum 2
+
+terjadi error yang sama seperti praktikum 1
+
+praktikum 3
+
+![Screenshot](asset/w10.png)
 
 
 
