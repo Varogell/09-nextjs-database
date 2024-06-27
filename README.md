@@ -61,5 +61,8 @@ melakukan query pada tab query
 
 Hanya menampilkan tulisan dashboard
 
+##### soal 6
+
 ![Screenshot](asset/06.png)
+
 
