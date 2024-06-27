@@ -33,36 +33,53 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 #### Soal 1
 
-![Screenshot](asset/01.png)
+![Screenshot](asset/1.png)
 
 melakukan deploy github diserver vercel
 
 #### Soal 2
 
-![Screenshot](asset/02.png)
+![Screenshot](asset/2.png)
 
 membuat basisdata di vercel
 
 #### soal 3
 
-![Screenshot](asset/03.png)
+![Screenshot](asset/3.png)
 
 melakukan pembuatan database dan mengisi tabel dari file src.seeder/data.js
 
 #### soal 4
 
-![Screenshot](asset/04.png)
+![Screenshot](asset/4.png)
 
 melakukan query pada tab query
 
 #### soal 5
 
-![Screenshot](asset/05.png)
+![Screenshot](asset/5.png)
 
 Hanya menampilkan tulisan dashboard
 
 ##### soal 6
 
-![Screenshot](asset/06.png)
+![Screenshot](asset/6.png)
+
+menampilkan grafik 
+
+##### soal 7
+
+![Screenshot](asset/7.png)
+
+menampilkan grafik 
+
+##### tugas praktikum
+
+![Screenshot](asset/tugas.png)
+
+fetchCardData() digunakan untuk mengambil data detail dari kartu berdasarkan ID yang diberikan melalui kueri GraphQL, dan mengembalikan data tersebut atau menangani error jika terjadi masalah selama pengambilan data.
+
+
+
 
 
